@@ -3,3 +3,30 @@ body {
   height: 100%;
   margin: 0;
 }
+
+h1 {
+  color: red;
+}
+
+header {
+  text-align: center;
+}
+
+p {
+    text-align: center;
+}
+
+figure {
+    text-align: center;
+}
+
+a {
+    padding: 10px;
+}
+
+div {
+    float: left;
+    width: 25%;
+    text-align: center;
+    background-color: red;
+}
